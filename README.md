@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,8 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Create a Azure virtual machine with 2-4 vCPU 's
+- Enable /install ISS in Windows alonge side CGI ,Common HTTP Features,  IIS Management Console
 - Item 3
 - Item 4
 - Item 5
