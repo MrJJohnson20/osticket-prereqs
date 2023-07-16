@@ -21,9 +21,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a Azure virtual machine with 2-4 vCPU 's
 - Enable /install ISS in Windows alonge side CGI ,Common HTTP Features,  IIS Management Console
-- Item 3
-- Item 4
-- Item 5
+- Download and install  PHP Manager for IIS & Rewrite Module 
+- Register PHP from within IIS
+- Establish permissions and install OS Ticket
 
 <h2>Installation Steps</h2>
 
