@@ -36,7 +36,7 @@ In the image above I go to Programs and Features to enable/install ISS ,CGI ,Com
 </p>
 </p> - Download and install PHP Manager for IIS & Rewrite Module 
 </p> - Create the directory C:\PHP
-</p> - download PHP 7.3.8 and inzip the files into the directory of C:\PHP
+</p> - Download PHP 7.3.8 and inzip the files into the directory of C:\PHP
 </p>
 
 <br />
@@ -45,7 +45,8 @@ In the image above I go to Programs and Features to enable/install ISS ,CGI ,Com
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ In the image above after opening ISS as a admin I double click PHP Manager to Register PHP. After registering PHP 
+  I also download osticket 
 </p>
 <br />
 
