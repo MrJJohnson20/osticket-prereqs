@@ -37,7 +37,9 @@ In the image above I go to Programs and Features to enable/install ISS ,CGI ,Com
 </p> - Download and install PHP Manager for IIS & Rewrite Module 
 </p> - Create the directory C:\PHP
 </p> - Download PHP 7.3.8 and inzip the files into the directory of C:\PHP
-</p>
+</p> 
+</p> 
+
 
 <br />
 
@@ -48,9 +50,11 @@ In the image above I go to Programs and Features to enable/install ISS ,CGI ,Com
  In the image above after opening ISS as a admin I double click PHP Manager to Register PHP. After registering PHP 
   I  download osticket. Along wiTH the step above i also did the following
 </p>   - Download and install VC_redist.x86.exe &  MySQL 5.5.62
-</p>   -
-</p>   -
+</p>   - Copy and extract  upload foulder to c:\inetpub\wwwroot
+</p>   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 <br />
+</p>
+</p>
 
 
 ![image](https://github.com/MrJJohnson20/osticket-prereqs/assets/127172324/1446b69d-c870-49d0-aca7-74e8f168282b)
