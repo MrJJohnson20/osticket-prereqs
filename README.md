@@ -46,8 +46,10 @@ In the image above I go to Programs and Features to enable/install ISS ,CGI ,Com
 </p>
 <p>
  In the image above after opening ISS as a admin I double click PHP Manager to Register PHP. After registering PHP 
-  I also download osticket 
-</p>
+  I  download osticket. Along witht the step above i also do the followubg
+</p>   -
+</p>   -
+</p>   -
 <br />
 
 
